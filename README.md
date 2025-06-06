@@ -27,4 +27,5 @@ Daha derine inmeniz için anlatımını faydalı bulduğum [site](https://www.tu
 - Terminale **`node hata`** yazarsanız terminalde hata mesajı alınabildiğini görmüş olacaksınız. Bu loglar ihtiyaca göre revize edilebilir.
 - Terminale **`node mobil`** yazarsanız amazon web sayfasının *iphone X* telefonunda görüntüsünü ss almış olursunuz. Yani web sayfalarının mobil simülasyonu yapılabilmektedir.
 - Terminale **`node test:all`** yazarsanız *tests* klasöründeki tüm testlerin çalıştırıldığını görmüş olacaksınız. Config klasöründe test edilecek butonların ortak özellikleri (Örneğin URL bilgisi) tanımlanır. Package.json dosyasında tanımladığımız script çalıştırılır. Buradaki amaç, aynı sayfa üzerinde yapılan işlemler için tekrar tekrar aynı tanımları yapmaktan kaçınmaktır. Ayrıca script ile birden fazla testin aynı anda çalıştırabileceğinizi görmüş oldunuz.
+
 **NOT:** png, txt, pdf çıktıları explorer alanından görülür.
