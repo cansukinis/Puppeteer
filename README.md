@@ -1,5 +1,6 @@
 # Puppeteer
 <img align="right" width="120" src="https://static-00.iconduck.com/assets.00/puppeteer-icon-1371x2048-otngklvq.png">
+
 ### Puppeteer nedir?
 Google tarafından geliştirilen, Chrome veya Chromium tarayıcılarını kontrol etmek için üst düzey bir API sağlayan güçlü bir Node.js kütüphanesidir. Default olarak headless modda çalışır. Bu özelliği headful olarak değiştirebilirsiniz.
 **Headless mode (Başsız):** Tarayıcının arka planda, arayüz görünmeden çalıştığı moddur. Bu sayede çok fazla sistem kaynağı tüketmeden son derece hızlı testler koşulabilir.
