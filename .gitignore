@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.local-chromium/
+*.log
+.DS_Store
+**/chrome-win/
+**/*.dll
+**/*.exe
